@@ -5,6 +5,6 @@ namespace Ejercicio_Interfaces
     {
         public void Imprimir();
 
-        public void ValidarIP();
+
     }
 }
